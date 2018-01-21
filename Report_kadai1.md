@@ -24,5 +24,5 @@ IMG2 = imresize(IMG,8,'box') % 画像の拡大
 imagesc(IMG2); axis image ; % 画像の表示
 
 #結果
-![原画像](https://github.com/HAL-Kobayashi/TDU-Image_P/blob/master/img_space/images/1-1.tif)  
+![原画像](https://github.com/HAL-Kobayashi/TDU-Image_P/blob/master/img_space/images/1-1.tif?raw=true)  
 図1 原画像
