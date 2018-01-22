@@ -1,4 +1,4 @@
-ORG = imread('himawari.jpg'); % 画像の読み込み
+ORG = imread('Mandrill.bmp'); % 画像の読み込み
 
 ORG = rgb2gray(ORG); % 白黒濃淡画像に変換
 
