@@ -43,18 +43,15 @@ IMG = IMG0 + IMG1 + IMG2 + IMG3; %418
 imagesc(IMG); colormap(gray); colorbar;  axis image;
 
 
-![1](https://user-images.githubusercontent.com/32251471/34907582-69d6be6e-f8c4-11e7-94b8-0d3ffe69e0bb.PNG)
 
-図1　グレースケール画像
 
 ![2](https://github.com/HAL-Kobayashi/TDU-Image_P/blob/master/png_images/PNG_2-1.png)
+図1　グレースケール画像
 
-図2　2階調画像の生成
 
 ![3](https://github.com/HAL-Kobayashi/TDU-Image_P/blob/master/png_images/PNG_2-2.png)
+図2　2階調画像の生成
 
-図3　4階調画像の生成
 
 ![4](https://github.com/HAL-Kobayashi/TDU-Image_P/blob/master/png_images/PNG_2-3.png)
-
-図4　8階調画像の生成
+図3　4階調画像の生成
