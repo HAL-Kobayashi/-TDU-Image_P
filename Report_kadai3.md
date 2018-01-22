@@ -1,6 +1,6 @@
 clear; % 変数のオールクリア
 
-ORG=imread('himawari.jpg'); % 原画像の入力
+ORG=imread('Mandrill.bmp'); % 原画像の入力
 
 ORG= rgb2gray(ORG); % カラー画像を白黒濃淡画像へ変換
 
